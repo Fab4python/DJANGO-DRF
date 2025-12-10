@@ -1,3 +1,5 @@
+#Note personnel: fichier .gitignore pour un projet Python
+readme-draft.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
